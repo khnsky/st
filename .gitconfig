@@ -1,0 +1,4 @@
+[remote "upstream"]
+    url     = https://git.suckless.org/st/
+    fetch   = +refs/heads/*:refs/remotes/upstream/*
+    pushurl = DISABLED
